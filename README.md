@@ -1,6 +1,6 @@
 # TwitterClone [IN PROGRESS] 🐦
 
-A full-stack Twitter-like web application built with a modern tech stack.  
+A full-stack Twitter-like web application built with a modern tech stack in educational purposes.  
 Includes JWT authentication, custom UI components, and core functionality like posting and viewing tweets.
 
 ---
