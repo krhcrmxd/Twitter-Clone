@@ -1,0 +1,6 @@
+.sidebarButton {
+    @apply w-11/12 text-lightest hover:bg-lightest uppercase font-bold transition-colors duration-500 text-lg;
+}
+.tweetButton {
+    @apply w-11/12 text-darkest bg-lightest hover:bg-light uppercase font-bold transition-colors duration-500 text-lg;
+}
